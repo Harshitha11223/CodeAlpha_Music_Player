@@ -38,9 +38,9 @@ A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScri
 ├── 📜 README.md              
 
 
-## 👨‍💻 Author Bhadrachalam Khagesh Kumar
+## 👨‍💻 Author PATTEPUR HARSHITHA
 
-🔗 [LinkedIn](https://www.linkedin.com/in/b-khagesh-kumar/) | 🐙 [GitHub](https://github.com/khagesh-kumar)
+🔗 [LinkedIn](https://www.linkedin.com/in/pattepur-harshitha/) | 🐙 [GitHub](https://github.com/Harshitha11223)
 
 ##⭐ Show Your Support!
 
